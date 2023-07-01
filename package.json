@@ -1,5 +1,6 @@
 {
-  "name": "pwa-demo",
+  "homepage": "https://yagnapathak1.github.io/kite-ku",
+  "name": "kite-ku",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

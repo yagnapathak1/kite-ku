@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b1266c58.css",
+    "main.js": "/static/js/main.fbe3aebb.js",
+    "static/media/hero-banner.png": "/static/media/hero-banner.023e6f542f1395f78d2a.png",
+    "static/media/kite-student-portal-logo.svg": "/static/media/kite-student-portal-logo.4c8c4ba116866e609d56ad07a4c59941.svg",
+    "index.html": "/index.html",
+    "main.b1266c58.css.map": "/static/css/main.b1266c58.css.map",
+    "main.fbe3aebb.js.map": "/static/js/main.fbe3aebb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1266c58.css",
+    "static/js/main.fbe3aebb.js"
+  ]
+}
