@@ -1,0 +1,76 @@
+html,
+div#root {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.logo-container {
+    margin-top: -3%;
+}
+
+.banner-section img {
+    width: -webkit-fill-available;
+}
+
+.box {
+    margin-top: 65px;
+    justify-content: center;
+    display: flex;
+}
+
+.content {
+    flex: 1;
+}
+
+.footer {
+    padding: 20px;
+    text-align: center;
+}
+
+.footer p {
+    font-family: "Barlow-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+
+    letter-spacing: 0;
+    line-height: 28px;
+    position: fixed;
+    white-space: nowrap;
+}
+
+.modal-dialog-bottomed {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    transform: translateY(100%);
+}
+
+.modal.show .modal-dialog-bottomed {
+    transform: translateY(0);
+}
+
+.reset-links {
+    display: flex;
+    justify-content: space-between;
+}
+
+.help-url-cnc {
+    max-height: 600px;
+    padding: 20px;
+}
+
+.help-url-cnc .modal-body {
+    overflow-y: auto;
+    max-height: 600px;
+}
